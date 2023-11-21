@@ -1,0 +1,4 @@
+PORT = 3000
+DATABASEURL = mongodb://sparsh:sparsh123@ds119606.mlab.com:19606/sen
+
+
